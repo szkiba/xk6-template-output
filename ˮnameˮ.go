@@ -1,4 +1,4 @@
-package ˮnameˮ
+package ˮgoPackageˮ
 
 import (
 	"fmt"
